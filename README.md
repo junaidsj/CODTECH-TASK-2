@@ -7,3 +7,9 @@ This project demonstrates a deep learning model built with TensorFlow for classi
 - Model: Convolutional Neural Network (CNN)
 - Framework: TensorFlow (Keras API)
 - Visualizations: Accuracy/Loss curves, Confusion Matrix, Sample Predictions
+
+## 👨‍💻 Developed By
+
+**Junaid Ahamed**  
+_Data Science Intern @ CodTech_  
+📅 Submitted: April 2025
